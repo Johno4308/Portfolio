@@ -52,32 +52,32 @@ const About = () => {
                 <div className='cubespinner'> {/* cube for about page using scss styling */}
                     <div className='face1'> 
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                     <div className='face2'>
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                     <div className='face3'>
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                     <div className='face4'>
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                     <div className='face5'>
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                     <div className='face6'>
                         <img 
-                            src='../../src/assets/images/logo-button.png' 
+                            src='../../assets/images/logo-button.png' 
                             width="150"/>
                     </div>
                 </div>
