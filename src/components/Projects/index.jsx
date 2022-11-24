@@ -146,7 +146,7 @@ const Projects = () => {
                                 <a 
                                     target="_blank" 
                                     rel="noreferrer" 
-                                    href="https://github.com/Johno4308"
+                                    href="https://github.com/Johno4308/Container"
                                 >
                                     <FontAwesomeIcon 
                                       className="icon" 
@@ -192,7 +192,7 @@ const Projects = () => {
                                 <a 
                                     target="_blank" 
                                     rel="noreferrer" 
-                                    href="https://github.com/Johno4308"
+                                    href="https://github.com/Johno4308/GuestHouse"
                                 >
                                     <FontAwesomeIcon 
                                       className="icon" 
@@ -237,7 +237,7 @@ const Projects = () => {
                                 <a 
                                     target="_blank" 
                                     rel="noreferrer" 
-                                    href="https://github.com/Johno4308"
+                                    href="https://github.com/Johno4308/Calculator"
                                 >
                                     <FontAwesomeIcon 
                                       className="icon" 
