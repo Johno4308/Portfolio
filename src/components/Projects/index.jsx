@@ -125,7 +125,7 @@ const Projects = () => {
                                   <h3>To Demonstrate</h3>
                                   <ul>
                                     <li> Factory and Momento Design Patterns</li>
-                                    <li> XML writting using DOM and XMLStreamer</li>
+                                    <li> XML writing using DOM and XMLStreamer</li>
                                     <li> TCP sockets</li>
                                     <li> Threading</li>
                                     <li> Serialization of class objects</li>
@@ -165,13 +165,13 @@ const Projects = () => {
                             <div className="project2-content">
                                   <h2>The Guest House</h2>
                                   <h3>Project Idea</h3>
-                                  <p>To create a 5 room Bnb booking application that books in guests, checks dates and room avaliability</p>
+                                  <p>To create a 5 room BnB booking application that books in guests, checks dates and room availability</p>
                                   <h3>To Demonstrate</h3>
                                   <ul>
                                     <li> To hard code a UI without using QT onboard designer</li>
-                                    <li> Implemenation of user input validation</li>
+                                    <li> Implementation of user input validation</li>
                                     <li> Serialization of class objects</li>
-                                    <li> Converting and retreiving data to/from XML</li>
+                                    <li> Converting and retrieving data to/from XML</li>
                                   </ul>
                               </div>
                               <div className='project2-model'>
