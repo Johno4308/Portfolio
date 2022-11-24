@@ -8,9 +8,7 @@ const Home = () => {
 
   const [letterClass, setLetterClass] = useState('text-animate')
 
-  const greetArray2 = 'i there,'.split("")
   const nameArray1 = 'Johnathan'.split("")
-  const jobArray3 = 'Front End Developer'.split("")
   useEffect(() => {
     setTimeout(() => {
       return setLetterClass('text-animate-hover')
@@ -23,31 +21,22 @@ const Home = () => {
         <div className="container home-page">
             <div className="text-zone">
                 <h1>
+                    Hi there, 
 
-                    {/* setting up array chars with animations by calling animate char component and 
-                    assign a unique number to each 1*/}
-                    <span className={`${letterClass} _14`}>H</span>
-                    <CharAnimation      
-                    letterClass={letterClass}
-                    strArray={greetArray2}
-                    idx={15}
-                    /> 
+
                     <br/>
                     <br/>
-                    <span className={`${letterClass} _23`}>I</span>
-                    <span className={`${letterClass} _24`}>'m</span>
+                    I'm 
                     <span> </span>
+                   {/* setting up array chars with animations by calling animate char component and 
+                    assign a unique number to each 1*/}
                     <CharAnimation 
                     letterClass={letterClass}
                     strArray={nameArray1}
-                    idx={26}
+                    idx={15}
                     /> 
                     <br />
-                    <CharAnimation 
-                    letterClass={letterClass}
-                    strArray={jobArray3}
-                    idx={35}
-                    />  
+                    Front End Developer
                     <br />
                     </h1>
                     <h2>JavaSript | CSS | Html | C++</h2>
