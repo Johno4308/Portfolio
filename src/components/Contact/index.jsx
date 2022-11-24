@@ -101,7 +101,7 @@ const Contact = () => {
                 <div className='cubeabout'>
                     <div className='face1'>
                         <img 
-                            src='../../src/assets/images/react.png' 
+                            src='../../public/react.png' 
                             width="150"/>
                     </div>
                     <div className='face2'>
