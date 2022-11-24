@@ -51,21 +51,45 @@
   
     .face1 {
       transform: translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
     .face2 {
       transform: rotateY(90deg) translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
     .face3 {
       transform: rotateY(90deg) rotateX(90deg) translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
     .face4 {
       transform: rotateY(180deg) rotateZ(90deg) translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
     .face5 {
       transform: rotateY(-90deg) rotateZ(90deg) translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
     .face6 {
       transform: rotateX(-90deg) translateZ(100px);
+      background-image: url(../../assets/images/logo-button.png);
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
     }
   }
   

@@ -100,34 +100,17 @@ const Contact = () => {
         <div className='stage-about'>
                 <div className='cubeabout'>
                     <div className='face1'>
-                        <img 
-                            src='../../assets/images/react.png' 
-                            width="150"/>
                     </div>
                     <div className='face2'>
-                        <img 
-                            src='../../assets/images/react.png' 
-                            width="150"/>
                     </div>
                     <div className='face3'>
-                        <img 
-                            src='../../assets/images/react.png' 
-                            width="150"/>
                     </div>
                     <div className='face4'>
-                        <img 
-                            src='../../assets/images/react.png' 
-                            width="150"/>
                     </div>
                     <div className='face5'>
-                        <img 
-                            src='../../assets/images/react.png' 
-                            width="150"/>
                     </div>
                     <div className='face6'>
-                        <img 
-                            src='../assets/images/react.png' 
-                            width="150"/>
+
                     </div>
                 </div>
             </div>
